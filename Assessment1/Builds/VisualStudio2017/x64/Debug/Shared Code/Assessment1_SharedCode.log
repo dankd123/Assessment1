@@ -1,0 +1,28 @@
+﻿  PluginProcessor.cpp
+  PluginEditor.cpp
+  include_juce_audio_basics.cpp
+  include_juce_audio_devices.cpp
+  include_juce_audio_formats.cpp
+c:\users\daniel\desktop\projucer projects\assessment1\source\pluginprocessor.cpp(82): warning C4100: 'index': unreferenced formal parameter
+c:\users\daniel\desktop\projucer projects\assessment1\source\pluginprocessor.cpp(86): warning C4100: 'index': unreferenced formal parameter
+c:\users\daniel\desktop\projucer projects\assessment1\source\pluginprocessor.cpp(91): warning C4100: 'newName': unreferenced formal parameter
+c:\users\daniel\desktop\projucer projects\assessment1\source\pluginprocessor.cpp(91): warning C4100: 'index': unreferenced formal parameter
+c:\users\daniel\desktop\projucer projects\assessment1\source\pluginprocessor.cpp(96): warning C4100: 'samplesPerBlock': unreferenced formal parameter
+c:\users\daniel\desktop\projucer projects\assessment1\source\pluginprocessor.cpp(96): warning C4100: 'sampleRate': unreferenced formal parameter
+c:\users\daniel\desktop\projucer projects\assessment1\source\pluginprocessor.cpp(132): warning C4100: 'midiMessages': unreferenced formal parameter
+c:\users\daniel\desktop\projucer projects\assessment1\source\pluginprocessor.cpp(155): warning C4189: 'channelData': local variable is initialized but not referenced
+c:\users\daniel\desktop\projucer projects\assessment1\source\pluginprocessor.cpp(173): warning C4100: 'destData': unreferenced formal parameter
+c:\users\daniel\desktop\projucer projects\assessment1\source\pluginprocessor.cpp(180): warning C4100: 'sizeInBytes': unreferenced formal parameter
+c:\users\daniel\desktop\projucer projects\assessment1\source\pluginprocessor.cpp(180): warning C4100: 'data': unreferenced formal parameter
+  include_juce_audio_plugin_client_utils.cpp
+  include_juce_audio_processors.cpp
+  include_juce_audio_utils.cpp
+  include_juce_core.cpp
+  include_juce_data_structures.cpp
+  include_juce_events.cpp
+  include_juce_graphics.cpp
+  include_juce_gui_basics.cpp
+  include_juce_gui_extra.cpp
+  include_juce_opengl.cpp
+include_juce_audio_plugin_client_utils.obj : warning LNK4006: "bool __cdecl juce::juce_shouldDoubleScaleNativeGLWindow(void)" (?juce_shouldDoubleScaleNativeGLWindow@juce@@YA_NXZ) already defined in include_juce_opengl.obj; second definition ignored
+  Assessment1_SharedCode.vcxproj -> C:\Users\Daniel\Desktop\Projucer Projects\Assessment1\Builds\VisualStudio2017\x64\Debug\Shared Code\Assessment1.lib
