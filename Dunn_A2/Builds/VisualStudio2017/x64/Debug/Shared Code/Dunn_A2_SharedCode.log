@@ -1,0 +1,12 @@
+﻿  PluginProcessor.cpp
+c:\users\daniel\desktop\projucer projects\dunn_a2\source\pluginprocessor.cpp(86): warning C4100: 'index': unreferenced formal parameter
+c:\users\daniel\desktop\projucer projects\dunn_a2\source\pluginprocessor.cpp(90): warning C4100: 'index': unreferenced formal parameter
+c:\users\daniel\desktop\projucer projects\dunn_a2\source\pluginprocessor.cpp(95): warning C4100: 'newName': unreferenced formal parameter
+c:\users\daniel\desktop\projucer projects\dunn_a2\source\pluginprocessor.cpp(95): warning C4100: 'index': unreferenced formal parameter
+c:\users\daniel\desktop\projucer projects\dunn_a2\source\pluginprocessor.cpp(104): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\daniel\desktop\projucer projects\dunn_a2\source\pluginprocessor.cpp(100): warning C4100: 'samplesPerBlock': unreferenced formal parameter
+c:\users\daniel\desktop\projucer projects\dunn_a2\source\pluginprocessor.cpp(143): warning C4100: 'midiMessages': unreferenced formal parameter
+c:\users\daniel\desktop\projucer projects\dunn_a2\source\pluginprocessor.cpp(206): warning C4100: 'destData': unreferenced formal parameter
+c:\users\daniel\desktop\projucer projects\dunn_a2\source\pluginprocessor.cpp(213): warning C4100: 'sizeInBytes': unreferenced formal parameter
+c:\users\daniel\desktop\projucer projects\dunn_a2\source\pluginprocessor.cpp(213): warning C4100: 'data': unreferenced formal parameter
+  Dunn_A2_SharedCode.vcxproj -> C:\Users\Daniel\Desktop\Projucer Projects\Dunn_A2\Builds\VisualStudio2017\x64\Debug\Shared Code\Dunn_A2.lib
